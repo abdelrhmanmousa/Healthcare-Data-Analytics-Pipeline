@@ -77,7 +77,7 @@ This project implements a data pipeline to process healthcare data stored in CSV
 - Docker
 
 ## Project Structure
-healthcare-data-pipeline/
+<pre> ```healthcare-data-pipeline/
 ├── data/
 │   └── raw/
 │       ├── ADMISSIONS.csv
@@ -102,9 +102,8 @@ healthcare-data-pipeline/
 │       └── length_of_stay.sql
 ├── assets/
 │   └── pipeline_architecture.png
-└── README.md
 |── ETL Pipeline User Manual.pdf  # User Manual for the  project Here you will find any information you need.
-
+└── README.md ``` <pre>
 
 
 
