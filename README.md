@@ -76,6 +76,9 @@ This project implements a data pipeline to process healthcare data stored in CSV
 - Apache Hive
 - Docker
 
+## Documentation
+For detailed setup and execution instructions, see the [User Manual](Docs/USER_MANUAL.md).
+
 ## Project Structure
 <pre> ```healthcare-data-pipeline/
 ├── data/
@@ -102,7 +105,7 @@ This project implements a data pipeline to process healthcare data stored in CSV
 │       └── length_of_stay.sql
 ├── assets/
 │   └── pipeline_architecture.png
-|── ETL Pipeline User Manual.pdf  # User Manual for the  project Here you will find any information you need.
+|── User_Manual.md  # User Manual for the  project Here you will find any information you need.
 └── README.md ``` <pre>
 
 
