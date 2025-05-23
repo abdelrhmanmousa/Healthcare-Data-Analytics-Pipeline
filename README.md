@@ -105,7 +105,7 @@ For detailed setup and execution instructions, see the [User Manual](Docs/USER_M
 │       └── length_of_stay.sql
 ├── assets/
 │   └── pipeline_architecture.png
-|── User_Manual.md  # User Manual for the  project Here you will find any information you need.
+|── Docs/User_Manual.md  # User Manual for the  project Here you will find any information you need.
 └── README.md ``` <pre>
 
 
